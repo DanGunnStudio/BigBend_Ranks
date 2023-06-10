@@ -1,7 +1,7 @@
 ## Big Bend Ranks
 
 ### Description
-A repository of the EDA and data cleanup for the [Big Bend Ranks Tableau Public Project] (https://public.tableau.com/app/profile/dan.gunn/viz/BigBendRanking/NPRanks?publish=yes)
+A repository of the EDA and data cleanup for the [Big Bend Ranks Tableau Public Project](https://public.tableau.com/app/profile/dan.gunn/viz/BigBendRanking/NPRanks?publish=yes)
 
 ### Data
 Data from NPS Stats
